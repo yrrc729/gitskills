@@ -1,3 +1,3 @@
 # gitskills hahaha
-change to a 1;
+change to a 2;
 Git is a free software ...
